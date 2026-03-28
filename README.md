@@ -1,4 +1,4 @@
-# AETHRA – Orbital Guardian AI
+# Orbital Guardian AI
 
 Türk uyduları için TLE/SGP4 tabanlı yakınlaşma taraması yapan, uzay çöpü kataloglarını analiz eden ve hafif bir makine öğrenmesi modeliyle risk sıralaması üreten açık kaynak prototip.
 
