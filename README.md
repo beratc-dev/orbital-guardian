@@ -49,25 +49,6 @@ streamlit run app/dashboard.py
 - `conjunction_events.json`
 - `summary.txt`
 
-## Önerilen repo yapısı
-```text
-aethra-orbital-guardian/
-  README.md
-  LICENSE
-  requirements.txt
-  main.py
-  app/
-    dashboard.py
-  src/
-    orbitguard/
-      __init__.py
-      data_loader.py
-      propagator.py
-      conjunction.py
-      risk_model.py
-      report.py
-```
-
 ## Veri kaynakları
 - CelesTrak GP/TLE API
 - Açık debris grupları:
